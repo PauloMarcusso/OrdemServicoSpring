@@ -3,8 +3,8 @@ package com.paulo.os.domain.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.paulo.os.api.domain.model.Cliente;
 import com.paulo.os.domain.exception.NegocioException;
+import com.paulo.os.domain.model.Cliente;
 import com.paulo.os.domain.repository.ClienteRepository;
 
 @Service

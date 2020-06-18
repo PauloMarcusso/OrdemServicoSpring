@@ -1,4 +1,4 @@
-package com.paulo.os.api.domain.model;
+package com.paulo.os.domain.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

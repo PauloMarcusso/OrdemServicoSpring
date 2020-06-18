@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.paulo.os.api.domain.model.Cliente;
+import com.paulo.os.domain.model.Cliente;
 import com.paulo.os.domain.repository.ClienteRepository;
 import com.paulo.os.domain.service.CadastroClienteService;
 
